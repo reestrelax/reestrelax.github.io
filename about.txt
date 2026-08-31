@@ -1,5 +1,8 @@
 Welcome to my webpage. I'm Mete D.
-I use various unrelated pseudonyms on the internet. Unless it's explicitly linked here
-I am not affiliated with any other "meted"
 
+I use various unrelated pseudonyms on the internet. I may or may not be affiliated with another "meted"
+
+This website is plain on purpose. I mean to keep it compatible with older and text-based browsers. 
+Additionally, I believe javascript and css is not required for this project and I, by principle, try to
+keep things simple.
 
