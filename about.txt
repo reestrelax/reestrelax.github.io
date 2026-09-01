@@ -6,3 +6,8 @@ This website is plain on purpose. I mean to keep it compatible with older and te
 Additionally, I believe javascript and css is not required for this project and I, by principle, try to
 keep things simple.
 
+I study and write about Ontology, Metaphysics, Neoplatonism, Literature, Heterodox Economics and Econometrics.
+I also enjoy writing poetry.
+I'm an ardent supporter of Free (Libre) software.
+
+This webpage will serve as a simple blog/landing page.
